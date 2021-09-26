@@ -1,0 +1,8 @@
+/*Center header */
+	h1 {text-align: center;}
+	h4 {text-align: center;}
+	p {text-align: left;}
+/* Thick border */
+hr {
+  border: 1px solid ;
+}
